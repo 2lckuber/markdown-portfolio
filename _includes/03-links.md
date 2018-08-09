@@ -1,1 +1,1 @@
-[GitHub] (https://github.com/2lckuber)
+[GitHub](https://github.com/2lckuber)
